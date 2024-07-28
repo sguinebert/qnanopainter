@@ -149,6 +149,7 @@ add_library(qnanopainter
     libqnanopainterdata.qrc
     nanovg/nanovg.c
     nanovg/nanovg.h
+    nanovg/nanovg_gl_wrapped.h
 )
 
 if (WIN32)
